@@ -1,7 +1,26 @@
 # Resources
 ## Survey Papers
 ## Books and Papers
+## UCF-Crime
+- [MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MGFN+%3A+Magnitude-Contrastive+Glance-and-Focus+Network+for+Weakly-Supervised+Video+Anomaly+Detection&btnG=)
+- [An efficient anomaly recognition framework using an attention residual LSTM in surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Efficient+Anomaly+Recognition+Framework+Using+an+Attention+Residual+LSTM+in+Surveillance+Videos&btnG=)
+- [Semi-supervised anomaly detection in video-surveillance scenes in the wild](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-Supervised+Anomaly+Detection+in+Video-Surveillance+Scenes+in+the+Wild&btnG=)
+- [Attention-based framework for weakly supervised video anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%E2%80%91based+framework+for+weakly+supervised+video++anomaly+detection&btnG=)
+- [Artificial Intelligence of Things-assisted two-stream neural network for anomaly detection in surveillance Big Video Data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Artificial+Intelligence+of+Things-assisted+two-stream+neural+network+for+anomaly+detection+in+surveillance+Big+Video+Data&btnG=)
+- [Weakly supervised video anomaly detection via transformer-enabled temporal relation learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+via+Transformer-Enabled+Temporal+Relation+Learning&btnG=)
+- [Abnormal event detection and localization via adversarial event prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Event+Detection+and+Localization+via+Adversarial+Event+Prediction&btnG=)
+- [Attention-based anomaly detection in multi-view surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention-based+anomaly+detection+in+multi-view+surveillance+videos&btnG=)
+- [SmithNet: Strictness on Motion-Texture Coherence for Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SmithNet%3A+Strictness+on+Motion-Texture+Coherence+for+Anomaly+Detection&btnG=)
+- [Learning causal temporal relation and feature discrimination for anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Causal+Temporal+Relation+and+Feature+Discrimination+for+Anomaly+Detection&btnG=)
+- [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
+- [Weakly supervised video anomaly detection based on 3D convolution and LSTM](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+Based+on+3D+Convolution+and+LSTM&btnG=)
+- 
 ## Online Courses
+## Video Attention
+- [Attention, please! A survey of neural attention models in deep learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%2C+please%21+A+survey+of+neural+attention+models++in+deep+learning&btnG=)
+- [HSTA: A hierarchical spatio-temporal attention model for trajectory prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=HSTA%3A+A+Hierarchical+Spatio-Temporal+Attention+Model+for+Trajectory+Prediction&btnG=)
+- [Survey of spatio-temporal interest point detection algorithms in video](https://scholar.google.com/scholar?q=Survey+of+Spatio-Temporal+Interest+Point+Detection+Algorithms+in+Video&hl=en&as_sdt=0,5)
+- 
 ## Thesis
 - Robust and Efficient Unsupervised Anomaly Detection in Complex and Dynamic Environments, Zahra Ghafoori
 - Unsupervised anomaly detection and access control on network traffic, Michail Marinos Dimakogiannis
@@ -20,7 +39,12 @@
 - [UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
 - [UCSD](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)
 - [VIRAT](https://viratdata.org/)
-- []()
+- [Avenue]()
+- [UMN]()
+- [RWF-2000]()
+- [ShanghaiTech]()
+- [XD-Violence]()
+- 
 ## Time Series
 ## Traffic Anomaly Detection
 - [StreetAccident](https://github.com/smallcorgi/Anticipating-Accidents)
@@ -39,7 +63,8 @@
 [Temporal action localization by structured maximal sums](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+by+Structured+Maximal+Sums&btnG=)
 - [Temporal action detection with structured segment networks](https://openaccess.thecvf.com/content_iccv_2017/html/Zhao_Temporal_Action_Detection_ICCV_2017_paper.html)
 - [Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
-- 
+- [A New Approach for Abnormal Human Activities Recognition Based on ConvLSTM Architecture](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+New+Approach+for+Abnormal+Human+Activities+Recognition+Based+on+ConvLSTM+Architecture&btnG=)
+- []()
 ## Localization
 - [Dynamic video anomaly detection and localization using sparse denoising autoencoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using+sparse+denoising+autoencoders&btnG=)
 - [Anomaly detection and localization in crowded scenes](https://ieeexplore.ieee.org/abstract/document/6531615/)
@@ -113,4 +138,5 @@
 - [Abnormal event detection and localization via adversarial event prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Event+Detection+and+Localization+via+Adversarial+Event+Prediction&btnG=)
 - [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
 - [Unsupervised anomaly detection and localization based on deep spatiotemporal translation network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+and+Localization+Based+on+Deep+Spatiotemporal+Translation+Network&btnG=)
+- [Self-supervised Sparse Representation for Video Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Self-Supervised+Sparse+Representation+for+Video+Anomaly+Detection&btnG=)
 - []()
