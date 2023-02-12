@@ -1,4 +1,15 @@
 # Resources
+## Survey Papers
+## Books and Papers
+## Online Courses
+## Key Conferences and journals
+## Unsupervised Anomaly Detection
+## Supervised Anomaly Detection
+## Datasets
+- [UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
+- [UCSD](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)
+- [VIRAT](https://viratdata.org/)
+- []()
 ## Time Series
 ## Image
 ## Video
@@ -37,4 +48,11 @@
 - [Kernel PCA for novelty detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320306003414)
 - [Defying the gravity of learning curve: a characteristic of nearest neighbour anomaly detectors](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Defying+the+Gravity+of+Learning+Curve%3A++A+Characteristic+of+Nearest+Neighbour+Anomaly+Detectors&btnG=)
 - [A survey on unsupervised outlier detection in high‐dimensional numerical data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+unsupervised+outlier+detection+in+high-dimensional+numerical++data&btnG=)
+- [A comprehensive survey on graph anomaly detection with deep learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Comprehensive+Survey+on+Graph+Anomaly+Detection+with+Deep+Learning&btnG=)
+- [Anomaly detection: A survey](https://dl.acm.org/doi/abs/10.1145/1541880.1541882)
+- [A comparative evaluation of outlier detection algorithms: Experiments and analyses](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+comparative+evaluation+of+outlier+detection+algorithms%3A+experiments+and+analyses&btnG=)
+- [Progress in outlier detection techniques: A survey](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Progress+in+Outlier+Detection+Techniques%3A+A+Survey&btnG=)
+- [Ausome](https://github.com/yzhao062/anomaly-detection-resources#11-books)
+- [Outlier detection with autoencoder ensembles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Outlier+Detection+with+Autoencoder+Ensembles&btnG=)
+- [Ganomaly: Semi-supervised anomaly detection via adversarial training](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GANomaly%3A+Semi-Supervised+Anomaly+Detection+via+Adversarial+Training&btnG=)
 - []()
