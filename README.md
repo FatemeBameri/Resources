@@ -62,4 +62,4 @@
 - [Ausome](https://github.com/yzhao062/anomaly-detection-resources#11-books)
 - [Outlier detection with autoencoder ensembles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Outlier+Detection+with+Autoencoder+Ensembles&btnG=)
 - [Ganomaly: Semi-supervised anomaly detection via adversarial training](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GANomaly%3A+Semi-Supervised+Anomaly+Detection+via+Adversarial+Training&btnG=)
-- []()
+- [c]()
