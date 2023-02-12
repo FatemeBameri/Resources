@@ -9,6 +9,13 @@
 ## Key Conferences and journals
 ## Unsupervised Anomaly Detection
 ## Supervised Anomaly Detection
+## Video Feature Extraction
+- [I3D Feature Extraction](https://github.com/Finspire13/pytorch-i3d-feature-extraction)
+- [I3D Feature Extraction in colab](https://colab.research.google.com/drive/1LKoytZmNxtC-EuCp7pHDM6sFvK1XdwlW?usp=sharing)
+- [I3D (RGB + Flow)](https://iashin.ai/video_features/models/i3d/)
+- [C3D feature extraction using Google Colab - Colaboratory](https://github.com/rajanjitenpatel/C3D_feature_extraction)
+- [Pytorch_C3D_Feature_Extractor](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor)
+- [C3D Feature Extractor](https://github.com/hermanprawiro/c3d-extractor-pytorch)
 ## Datasets
 - [UCF-Crime](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
 - [UCSD](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)
@@ -39,7 +46,9 @@
 - [Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+Anomaly+Detection+and+Localization+Using+Hierarchical+Feature+Representation+and+Gaussian+Process+Regression&btnG=)
 - [Temporal context network for activity localization in videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Context+Network+for+Activity+Localization+in+Videos&btnG=)
 - [Real-time anomaly detection and localization in crowded scenes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Anomaly+Detection+and+Localization+in+Crowded+Scenes&btnG=)
-- []()
+- [Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+anomaly++detection+and+localization+via+gaussian+mixture+fully+convolutional+variational++autoencoder&btnG=)
+- [Dynamic video anomaly detection and localization using sparse denoising autoencoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using++sparse+denoising+autoencoders&btnG=)
+- [Fast and accurate detection and localization of abnormal behavior in crowded scenes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+and+accurate++detection+and+localization+of+abnormal+behavior+in+crowded+scenes&btnG=)
 ## Image
 ## Video
 - [Real-world Anomaly Detection in Surveillance Videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-world+Anomaly+Detection+in+Surveillance+Videos&btnG=) 
