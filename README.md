@@ -2,6 +2,10 @@
 ## Survey Papers
 ## Books and Papers
 ## Online Courses
+## Thesis
+- Robust and Efficient Unsupervised Anomaly Detection in Complex and Dynamic Environments, Zahra Ghafoori
+- Unsupervised anomaly detection and access control on network traffic, Michail Marinos Dimakogiannis
+- Context-Aware Anomaly Detection and Analysis Using Spatial-Temporal Data, Qi Liu
 ## Key Conferences and journals
 ## Unsupervised Anomaly Detection
 ## Supervised Anomaly Detection
@@ -23,7 +27,19 @@
 - [DoTA](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
 - -[DoTA: unsupervised detection of traffic anomaly in driving videos]()
 - -[]()
+## Action Recognition
+-[Temporal action localization with pyramid of score distribution features](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+with+Pyramid+of+Score+Distribution+Features&btnG=)
+[Temporal action localization by structured maximal sums](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+by+Structured+Maximal+Sums&btnG=)
+- [Temporal action detection with structured segment networks](https://openaccess.thecvf.com/content_iccv_2017/html/Zhao_Temporal_Action_Detection_ICCV_2017_paper.html)
+- [Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 - 
+## Localization
+- [Dynamic video anomaly detection and localization using sparse denoising autoencoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using+sparse+denoising+autoencoders&btnG=)
+- [Anomaly detection and localization in crowded scenes](https://ieeexplore.ieee.org/abstract/document/6531615/)
+- [Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+Anomaly+Detection+and+Localization+Using+Hierarchical+Feature+Representation+and+Gaussian+Process+Regression&btnG=)
+- [Temporal context network for activity localization in videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Context+Network+for+Activity+Localization+in+Videos&btnG=)
+- [Real-time anomaly detection and localization in crowded scenes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Anomaly+Detection+and+Localization+in+Crowded+Scenes&btnG=)
+- []()
 ## Image
 ## Video
 - [Real-world Anomaly Detection in Surveillance Videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-world+Anomaly+Detection+in+Surveillance+Videos&btnG=) 
@@ -68,4 +84,24 @@
 - [Ausome](https://github.com/yzhao062/anomaly-detection-resources#11-books)
 - [Outlier detection with autoencoder ensembles](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Outlier+Detection+with+Autoencoder+Ensembles&btnG=)
 - [Ganomaly: Semi-supervised anomaly detection via adversarial training](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=GANomaly%3A+Semi-Supervised+Anomaly+Detection+via+Adversarial+Training&btnG=)
-- [c]()
+- [Attention-driven loss for anomaly detection in video surveillance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention-Driven+Loss+for+Anomaly+Detection+in+Video+Surveillance&btnG=)
+- [Abnormal event detection for video surveillance using deep one-class learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+event+detection+for+video+surveillance+using+deep+one-class+learning&btnG=)
+- [Spatiotemporal anomaly detection using deep learning for real-time video surveillance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spatiotemporal+Anomaly+Detection+Using+Deep+Learning+for+Real-Time+Video+Surveillance&btnG=)
+- [A novel framework for intelligent surveillance system based on abnormal human activity detection in academic environments](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+novel+framework+for+intelligent+surveillance+system+based+on+abnormal+human+activity+detection+in+academic+environments&btnG=)
+- [A study of deep convolutional auto-encoders for anomaly detection in videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+study+of+deep+convolutional+auto-encoders+for+anomaly+detection+in+videos&btnG=)
+- [Transanomaly: Video anomaly detection using video vision transformer](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TransAnomaly%3A+Video+Anomaly+Detection+Using+Video+Vision+Transformer&btnG=)
+- [A review of state-of-the-art techniques for abnormal human activity recognition](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=review+of+state-of-the-art+techniques+for+abnormal+human+activity+recognition&btnG=)
+- [A review of novelty detection](https://www.sciencedirect.com/science/article/abs/pii/S016516841300515X)
+- [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning-based+real-time+crowd+anomaly+detection+for+secure+distributed+video+surveillance&btnG=)
+- [Spatiotemporal consistency-enhanced network for video anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spatiotemporal+consistency-enhanced+network+for+video+anomaly+detection&btnG=)
+- [Learning deep event models for crowd anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+deep+event+models+for+crowd+anomaly+detection&btnG=)
+- [Video anomaly detection with spatio-temporal dissociation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+anomaly+detection+with+spatio-temporal+dissociation&btnG=)
+- [Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+Anomaly+Detection+and+Localization+via++Gaussian+Mixture+Fully+Convolutional+Variational+Autoencoder&btnG=)
+- [A new semantic and statistical distance-based anomaly detection in crowd video surveillance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+New+Semantic+and+Statistical+Distance-Based+Anomaly+Detection+in+Crowd+Video+Surveillance&btnG=)
+- [CNN features with bi-directional LSTM for real-time anomaly detection in surveillance networks](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CNN+Features+with+Bi-Directional+LSTM+for+Real-Time+Anomaly+Detection+in++Surveillance+Networks&btnG=)
+- [Weakly supervised video anomaly detection based on 3D convolution and LSTM](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=eakly+Supervised+Video+Anomaly+Detection+Based+on+3D+Convolution+and+LSTM&btnG=)
+- [Deep learning based detection and localization of road accidents from traffic surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+learning+based+detection+and+localization+of+road+accidents+from+traffic+surveillance+videos&btnG=)
+- [Abnormal event detection and localization via adversarial event prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Event+Detection+and+Localization+via+Adversarial+Event+Prediction&btnG=)
+- [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
+- [Unsupervised anomaly detection and localization based on deep spatiotemporal translation network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+and+Localization+Based+on+Deep+Spatiotemporal+Translation+Network&btnG=)
+- []()
