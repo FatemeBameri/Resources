@@ -139,4 +139,5 @@
 - [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
 - [Unsupervised anomaly detection and localization based on deep spatiotemporal translation network](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+and+Localization+Based+on+Deep+Spatiotemporal+Translation+Network&btnG=)
 - [Self-supervised Sparse Representation for Video Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Self-Supervised+Sparse+Representation+for+Video+Anomaly+Detection&btnG=)
-- []()
+- [Anomaly analysis in images and videos: A comprehensive review](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anomaly+Analysis+in+Images+and+Videos%3A+A+Comprehensive+Review&btnG=)
+[]()
