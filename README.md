@@ -1,6 +1,10 @@
 # Resources
 ## Survey Papers
 ## Books and Papers
+## Anomaly in Construction
+- [Theft and Vandalism Control Measures on Building Sites in Lagos, Nigeria.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Theft+and+Vandalism+Control+Measures+on+Building+Sites+in++Lagos%2C+Nigeria&btnG=)
+- [Effects of Theft on the Critical Path of Construction Projects](https://link.springer.com/chapter/10.1007/978-3-030-95813-8_3)
+- []()
 ## UCF-Crime
 - [MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MGFN+%3A+Magnitude-Contrastive+Glance-and-Focus+Network+for+Weakly-Supervised+Video+Anomaly+Detection&btnG=)
 - [An efficient anomaly recognition framework using an attention residual LSTM in surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Efficient+Anomaly+Recognition+Framework+Using+an+Attention+Residual+LSTM+in+Surveillance+Videos&btnG=)
@@ -14,7 +18,8 @@
 - [Learning causal temporal relation and feature discrimination for anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Causal+Temporal+Relation+and+Feature+Discrimination+for+Anomaly+Detection&btnG=)
 - [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
 - [Weakly supervised video anomaly detection based on 3D convolution and LSTM](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+Based+on+3D+Convolution+and+LSTM&btnG=)
-- 
+- [Weakly-supervised video anomaly detection with robust temporal feature magnitude learning](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
+
 ## Online Courses
 ## Video Attention
 - [Attention, please! A survey of neural attention models in deep learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%2C+please%21+A+survey+of+neural+attention+models++in+deep+learning&btnG=)
