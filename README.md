@@ -82,14 +82,14 @@
 - [A New Approach for Abnormal Human Activities Recognition Based on ConvLSTM Architecture](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+New+Approach+for+Abnormal+Human+Activities+Recognition+Based+on+ConvLSTM+Architecture&btnG=)
 - []()
 ## Localization
-- [Dynamic video anomaly detection and localization using sparse denoising autoencoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using+sparse+denoising+autoencoders&btnG=)
-- [Anomaly detection and localization in crowded scenes](https://ieeexplore.ieee.org/abstract/document/6531615/)
-- [Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+Anomaly+Detection+and+Localization+Using+Hierarchical+Feature+Representation+and+Gaussian+Process+Regression&btnG=)
-- [Temporal context network for activity localization in videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Context+Network+for+Activity+Localization+in+Videos&btnG=)
-- [Real-time anomaly detection and localization in crowded scenes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Anomaly+Detection+and+Localization+in+Crowded+Scenes&btnG=)
-- [Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+anomaly++detection+and+localization+via+gaussian+mixture+fully+convolutional+variational++autoencoder&btnG=)
-- [Dynamic video anomaly detection and localization using sparse denoising autoencoders](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using++sparse+denoising+autoencoders&btnG=)
-- [Fast and accurate detection and localization of abnormal behavior in crowded scenes](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+and+accurate++detection+and+localization+of+abnormal+behavior+in+crowded+scenes&btnG=)
+- Dynamic video anomaly detection and localization using sparse denoising autoencoders [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using+sparse+denoising+autoencoders&btnG=)
+- Anomaly detection and localization in crowded scenes [](https://ieeexplore.ieee.org/abstract/document/6531615/)
+- Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+Anomaly+Detection+and+Localization+Using+Hierarchical+Feature+Representation+and+Gaussian+Process+Regression&btnG=)
+- Temporal context network for activity localization in videos [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Context+Network+for+Activity+Localization+in+Videos&btnG=)
+- Real-time anomaly detection and localization in crowded scenes [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Anomaly+Detection+and+Localization+in+Crowded+Scenes&btnG=)
+- Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Video+anomaly++detection+and+localization+via+gaussian+mixture+fully+convolutional+variational++autoencoder&btnG=)
+- Dynamic video anomaly detection and localization using sparse denoising autoencoders [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using++sparse+denoising+autoencoders&btnG=)
+- Fast and accurate detection and localization of abnormal behavior in crowded scenes [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+and+accurate++detection+and+localization+of+abnormal+behavior+in+crowded+scenes&btnG=)
 ## Image
 ## Video
 - [Real-world Anomaly Detection in Surveillance Videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-world+Anomaly+Detection+in+Surveillance+Videos&btnG=) 
