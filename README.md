@@ -75,12 +75,11 @@
 - DADA [](https://github.com/JWFangit/LOTVS-DADA)
 - DoTA [](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly)
 ## Action Recognition
--[Temporal action localization with pyramid of score distribution features](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+with+Pyramid+of+Score+Distribution+Features&btnG=)
+-Temporal action localization with pyramid of score distribution features [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+with+Pyramid+of+Score+Distribution+Features&btnG=)
 [Temporal action localization by structured maximal sums](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Action+Localization+by+Structured+Maximal+Sums&btnG=)
-- [Temporal action detection with structured segment networks](https://openaccess.thecvf.com/content_iccv_2017/html/Zhao_Temporal_Action_Detection_ICCV_2017_paper.html)
-- [Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
-- [A New Approach for Abnormal Human Activities Recognition Based on ConvLSTM Architecture](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+New+Approach+for+Abnormal+Human+Activities+Recognition+Based+on+ConvLSTM+Architecture&btnG=)
-- []()
+- Temporal action detection with structured segment networks [](https://openaccess.thecvf.com/content_iccv_2017/html/Zhao_Temporal_Action_Detection_ICCV_2017_paper.html)
+- Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection [](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
+- A New Approach for Abnormal Human Activities Recognition Based on ConvLSTM Architecture [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+New+Approach+for+Abnormal+Human+Activities+Recognition+Based+on+ConvLSTM+Architecture&btnG=)
 ## Localization
 - Dynamic video anomaly detection and localization using sparse denoising autoencoders [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamic+video+anomaly+detection+and+localization+using+sparse+denoising+autoencoders&btnG=)
 - Anomaly detection and localization in crowded scenes [](https://ieeexplore.ieee.org/abstract/document/6531615/)
