@@ -19,6 +19,7 @@
 - [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
 - [Weakly supervised video anomaly detection based on 3D convolution and LSTM](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+Based+on+3D+Convolution+and+LSTM&btnG=)
 - [Weakly-supervised video anomaly detection with robust temporal feature magnitude learning](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
+- Self-supervised Sparse Representation for Video Anomaly Detection (Computer Vision–ECCV 2022) [pdf](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
 
 ## Online Courses
 ## Video Attention
