@@ -23,19 +23,14 @@
 - Deep learning-based data analytics for safety in construction (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522001753)
 - Computer vision-based classification of concrete spall severity using metaheuristic-optimized Extreme Gradient Boosting Machine and Deep Convolutional Neural Network (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002448)
 - 
-## Books and Papers
-## Anomaly in Construction
-- [Theft and Vandalism Control Measures on Building Sites in Lagos, Nigeria.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Theft+and+Vandalism+Control+Measures+on+Building+Sites+in++Lagos%2C+Nigeria&btnG=)
-- [Effects of Theft on the Critical Path of Construction Projects](https://link.springer.com/chapter/10.1007/978-3-030-95813-8_3)
-- []()
-## UCF-Crime
-- [MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MGFN+%3A+Magnitude-Contrastive+Glance-and-Focus+Network+for+Weakly-Supervised+Video+Anomaly+Detection&btnG=)
-- [An efficient anomaly recognition framework using an attention residual LSTM in surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Efficient+Anomaly+Recognition+Framework+Using+an+Attention+Residual+LSTM+in+Surveillance+Videos&btnG=)
-- [Semi-supervised anomaly detection in video-surveillance scenes in the wild](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Semi-Supervised+Anomaly+Detection+in+Video-Surveillance+Scenes+in+the+Wild&btnG=)
-- [Attention-based framework for weakly supervised video anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%E2%80%91based+framework+for+weakly+supervised+video++anomaly+detection&btnG=)
-- [Artificial Intelligence of Things-assisted two-stream neural network for anomaly detection in surveillance Big Video Data](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Artificial+Intelligence+of+Things-assisted+two-stream+neural+network+for+anomaly+detection+in+surveillance+Big+Video+Data&btnG=)
-- [Weakly supervised video anomaly detection via transformer-enabled temporal relation learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+via+Transformer-Enabled+Temporal+Relation+Learning&btnG=)
-- [Abnormal event detection and localization via adversarial event prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abnormal+Event+Detection+and+Localization+via+Adversarial+Event+Prediction&btnG=)
+## Anomaly in UCF-Crime Dataset
+- MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection (2022)[pdf](https://arxiv.org/abs/2211.15098)
+- An efficient anomaly recognition framework using an attention residual LSTM in surveillance videos (Sensors 2021)[pdf](https://www.mdpi.com/1424-8220/21/8/2811)
+- Semi-supervised anomaly detection in video-surveillance scenes in the wild (Sensors 2021)[pdf](https://www.mdpi.com/1424-8220/21/12/3993)
+- Attention-based framework for weakly supervised video anomaly detection (The Journal of Supercomputing 2022) [pdf](https://link.springer.com/article/10.1007/s11227-021-04190-9)
+- Artificial Intelligence of Things-assisted two-stream neural network for anomaly detection in surveillance Big Video Data (Future Generation Computer Systems 2022)[pdf]()
+- Weakly supervised video anomaly detection via transformer-enabled temporal relation learning (IEEE Signal Processing Letters 2022) [pdf](https://ieeexplore.ieee.org/abstract/document/9774889)
+- Abnormal event detection and localization via adversarial event prediction (IEEE transactions on neural networks and learning systems 2021)[pdf](https://ieeexplore.ieee.org/abstract/document/9346050)
 - [Attention-based anomaly detection in multi-view surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention-based+anomaly+detection+in+multi-view+surveillance+videos&btnG=)
 - [SmithNet: Strictness on Motion-Texture Coherence for Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SmithNet%3A+Strictness+on+Motion-Texture+Coherence+for+Anomaly+Detection&btnG=)
 - [Learning causal temporal relation and feature discrimination for anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Causal+Temporal+Relation+and+Feature+Discrimination+for+Anomaly+Detection&btnG=)
