@@ -1,5 +1,4 @@
 # Resources
-## Survey Papers
 ## UAV
 - Path planning techniques for unmanned aerial vehicles: A review, solutions, and challenges (Computer Communications 2020) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0140366419308539)
 - UAV-based bridge geometric shape measurement using automatic bridge component detection and distributed multi-view reconstruction (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002497)
@@ -31,15 +30,14 @@
 - Artificial Intelligence of Things-assisted two-stream neural network for anomaly detection in surveillance Big Video Data (Future Generation Computer Systems 2022)[pdf]()
 - Weakly supervised video anomaly detection via transformer-enabled temporal relation learning (IEEE Signal Processing Letters 2022) [pdf](https://ieeexplore.ieee.org/abstract/document/9774889)
 - Abnormal event detection and localization via adversarial event prediction (IEEE transactions on neural networks and learning systems 2021)[pdf](https://ieeexplore.ieee.org/abstract/document/9346050)
-- [Attention-based anomaly detection in multi-view surveillance videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention-based+anomaly+detection+in+multi-view+surveillance+videos&btnG=)
-- [SmithNet: Strictness on Motion-Texture Coherence for Anomaly Detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SmithNet%3A+Strictness+on+Motion-Texture+Coherence+for+Anomaly+Detection&btnG=)
-- [Learning causal temporal relation and feature discrimination for anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Causal+Temporal+Relation+and+Feature+Discrimination+for+Anomaly+Detection&btnG=)
-- [Localizing anomalies from weakly-labeled videos](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Localizing+Anomalies+from+Weakly-Labeled+Videos&btnG=)
-- [Weakly supervised video anomaly detection based on 3D convolution and LSTM](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Weakly+Supervised+Video+Anomaly+Detection+Based+on+3D+Convolution+and+LSTM&btnG=)
-- [Weakly-supervised video anomaly detection with robust temporal feature magnitude learning](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
+- Attention-based anomaly detection in multi-view surveillance videos (Knowledge-Based Systems 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006761)
+- SmithNet: Strictness on Motion-Texture Coherence for Anomaly Detection (IEEE Transactions on Neural Networks and Learning Systems 2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9565147)
+- Learning causal temporal relation and feature discrimination for anomaly detection (IEEE Transactions on Image Processing 2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9369126)
+- Localizing anomalies from weakly-labeled videos (IEEE transactions on image processing 2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9408419)
+- Weakly supervised video anomaly detection based on 3D convolution and LSTM (Sensors 2021) [pdf](https://www.mdpi.com/1424-8220/21/22/7508)
+- Weakly-supervised video anomaly detection with robust temporal feature magnitude learning (ICCV 2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
 - Self-supervised Sparse Representation for Video Anomaly Detection (Computer Vision–ECCV 2022) [pdf](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
 
-## Online Courses
 ## Video Attention
 - [Attention, please! A survey of neural attention models in deep learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%2C+please%21+A+survey+of+neural+attention+models++in+deep+learning&btnG=)
 - [HSTA: A hierarchical spatio-temporal attention model for trajectory prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=HSTA%3A+A+Hierarchical+Spatio-Temporal+Attention+Model+for+Trajectory+Prediction&btnG=)
