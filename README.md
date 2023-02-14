@@ -1,5 +1,28 @@
 # Resources
 ## Survey Papers
+## UAV
+- Path planning techniques for unmanned aerial vehicles: A review, solutions, and challenges (Computer Communications 2020) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0140366419308539)
+- UAV-based bridge geometric shape measurement using automatic bridge component detection and distributed multi-view reconstruction (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002497)
+## Fall Detection in Construction
+- Robust self-adaptation fall-detection system based on camera height (Sensors 2019) [pdf](https://www.mdpi.com/1424-8220/19/17/3768)
+- Ehomeseniors dataset: An infrared thermal sensor dataset for automatic fall detection research (Sensors 2019) [pdf](https://www.mdpi.com/1424-8220/19/20/4565)
+- Comprehensive review of vision-based fall detection systems (Sensors 2021) [pdf](https://www.mdpi.com/1424-8220/21/3/947)
+- Fall prevention from scaffolding using computer vision and IoT-based monitoring (Journal of Construction Engineering and Management 2022) [pdf](https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29CO.1943-7862.0002278)
+- Assessing exposure to slip, trip, and fall hazards based on abnormal gait patterns predicted from confidence interval estimation (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522001261)
+- [pdf]()
+
+## Tracking and progress in Construction
+- Adaptive tracking of double pendulum crane with payload hoisting/lowering (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002412)
+- Road marking degradation analysis using 3D point cloud data acquired with a low-cost Mobile Mapping System (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/pii/S0926580522003193)
+- Computer vision-based construction progress monitoring (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522001182)
+- 
+
+## Construction Safety
+- BIM-based construction safety risk library (Automation in Construction 2022)[pdf](https://www.sciencedirect.com/science/article/pii/S0926580522002643)
+- Vision-based monitoring of site safety compliance based on worker re-identification and personal protective equipment classification (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/pii/S0926580522001856)
+- Deep learning-based data analytics for safety in construction (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522001753)
+- Computer vision-based classification of concrete spall severity using metaheuristic-optimized Extreme Gradient Boosting Machine and Deep Convolutional Neural Network (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002448)
+- 
 ## Books and Papers
 ## Anomaly in Construction
 - [Theft and Vandalism Control Measures on Building Sites in Lagos, Nigeria.](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Theft+and+Vandalism+Control+Measures+on+Building+Sites+in++Lagos%2C+Nigeria&btnG=)
