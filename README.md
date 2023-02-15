@@ -37,12 +37,6 @@
 - Weakly supervised video anomaly detection based on 3D convolution and LSTM (Sensors 2021) [pdf](https://www.mdpi.com/1424-8220/21/22/7508)
 - Weakly-supervised video anomaly detection with robust temporal feature magnitude learning (ICCV 2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/html/Tian_Weakly-Supervised_Video_Anomaly_Detection_With_Robust_Temporal_Feature_Magnitude_Learning_ICCV_2021_paper.html)
 - Self-supervised Sparse Representation for Video Anomaly Detection (Computer Vision–ECCV 2022) [pdf](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
-
-## Video Attention
-- [Attention, please! A survey of neural attention models in deep learning](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention%2C+please%21+A+survey+of+neural+attention+models++in+deep+learning&btnG=)
-- [HSTA: A hierarchical spatio-temporal attention model for trajectory prediction](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=HSTA%3A+A+Hierarchical+Spatio-Temporal+Attention+Model+for+Trajectory+Prediction&btnG=)
-- [Survey of spatio-temporal interest point detection algorithms in video](https://scholar.google.com/scholar?q=Survey+of+Spatio-Temporal+Interest+Point+Detection+Algorithms+in+Video&hl=en&as_sdt=0,5)
-- 
 ## Thesis
 - Robust and Efficient Unsupervised Anomaly Detection in Complex and Dynamic Environments, Zahra Ghafoori
 - Unsupervised anomaly detection and access control on network traffic, Michail Marinos Dimakogiannis
