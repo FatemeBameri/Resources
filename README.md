@@ -49,7 +49,7 @@
 - C3D feature extraction using Google Colab - Colaboratory [link](https://github.com/rajanjitenpatel/C3D_feature_extraction)
 - Pytorch_C3D_Feature_Extractor [link](https://github.com/yyuanad/Pytorch_C3D_Feature_Extractor)
 - C3D Feature Extractor [link](https://github.com/hermanprawiro/c3d-extractor-pytorch)
-## Datasets
+## Datasets in Video Anomaly Detection
 - UCF-Crime [](https://www.crcv.ucf.edu/research/real-world-anomaly-detection-in-surveillance-videos/)
 - UCSD [](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)
 - VIRAT [](https://viratdata.org/)
@@ -69,7 +69,7 @@
 - Temporal action detection with structured segment networks [link](https://openaccess.thecvf.com/content_iccv_2017/html/Zhao_Temporal_Action_Detection_ICCV_2017_paper.html)
 - Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection [link](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 - A New Approach for Abnormal Human Activities Recognition Based on ConvLSTM Architecture [link](https://www.mdpi.com/1424-8220/22/8/2946)
-## Localization
+## Localization in Video Anomaly Detection
 - Dynamic video anomaly detection and localization using sparse denoising autoencoders [link](https://link.springer.com/article/10.1007/s11042-017-4940-2)
 - Anomaly detection and localization in crowded scenes [link](https://ieeexplore.ieee.org/abstract/document/6531615)
 - Video anomaly detection and localization using hierarchical feature representation and Gaussian process regression [link](https://openaccess.thecvf.com/content_cvpr_2015/html/Cheng_Video_Anomaly_Detection_2015_CVPR_paper.html)
@@ -78,7 +78,7 @@
 - Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder [link](https://www.sciencedirect.com/science/article/abs/pii/S1077314218302674)
 - Dynamic video anomaly detection and localization using sparse denoising autoencoders [link](https://link.springer.com/article/10.1007/s11042-017-4940-2)
 - Fast and accurate detection and localization of abnormal behavior in crowded scenes [link](https://link.springer.com/article/10.1007/s00138-017-0869-8)
-## Video
+## Video Anomaly Detection
 - Real-world Anomaly Detection in Surveillance Videos [link](https://openaccess.thecvf.com/content_cvpr_2018/html/Sultani_Real-World_Anomaly_Detection_CVPR_2018_paper.html) 
 - Deep Learning for Anomaly Detection: A Review [link](https://dl.acm.org/doi/abs/10.1145/3439950)
 - Anomaly detection in road traffic using visual surveillance: A survey [link](https://dl.acm.org/doi/abs/10.1145/3417989)
