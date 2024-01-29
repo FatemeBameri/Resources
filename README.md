@@ -103,7 +103,7 @@
 - Learning representations of ultrahigh-dimensional data for random distance-based outlier detection [](https://dl.acm.org/doi/abs/10.1145/3219819.3220042)
 - Deep autoencoding gaussian mixture model for unsupervised anomaly detection [](https://openreview.net/forum?id=BJJLHbb0-)
 - Self-trained deep ordinal regression for end-to-end video anomaly detection [](https://openaccess.thecvf.com/content_CVPR_2020/html/Pang_Self-Trained_Deep_Ordinal_Regression_for_End-to-End_Video_Anomaly_Detection_CVPR_2020_paper.html)
-- [Viral pneumonia screening on chest X-rays using confidence-aware anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Viral+Pneumonia+Screening+on+Chest+X-rays+Using+Confidence-Aware+Anomaly+Detection&btnG=)
+- Viral pneumonia screening on chest X-rays using confidence-aware anomaly detection [](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Viral+Pneumonia+Screening+on+Chest+X-rays+Using+Confidence-Aware+Anomaly+Detection&btnG=)
 - [Fence GAN: Towards better anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fence+GAN%3A+Towards+better+anomaly+detection&btnG=)
 - [One-class adversarial nets for fraud detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=One-class+adversarial+nets+for+fraud+detection&btnG=)
 - [Deep reinforcement learning for unknown anomaly detection](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Reinforcement+Learning+for+Unknown+Anomaly+Detection&btnG=)
