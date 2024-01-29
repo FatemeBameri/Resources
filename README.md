@@ -1,4 +1,4 @@
-# Resources
+# Related to Security and Safety
 ## UAV
 - Path planning techniques for unmanned aerial vehicles: A review, solutions, and challenges (Computer Communications 2020) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0140366419308539)
 - UAV-based bridge geometric shape measurement using automatic bridge component detection and distributed multi-view reconstruction (Automation in Construction 2022) [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0926580522002497)
@@ -41,9 +41,7 @@
 - Robust and Efficient Unsupervised Anomaly Detection in Complex and Dynamic Environments, Zahra Ghafoori
 - Unsupervised anomaly detection and access control on network traffic, Michail Marinos Dimakogiannis
 - Context-Aware Anomaly Detection and Analysis Using Spatial-Temporal Data, Qi Liu
-## Key Conferences and journals
-## Unsupervised Anomaly Detection
-## Supervised Anomaly Detection
+
 ## Video Feature Extraction
 - I3D Feature Extraction [](https://github.com/Finspire13/pytorch-i3d-feature-extraction)
 - I3D Feature Extraction in colab [](https://colab.research.google.com/drive/1LKoytZmNxtC-EuCp7pHDM6sFvK1XdwlW?usp=sharing)
@@ -61,7 +59,6 @@
 - ShanghaiTech []()
 - XD-Violence []()
 - 
-## Time Series
 ## Traffic Anomaly Detection
 - StreetAccident [](https://github.com/smallcorgi/Anticipating-Accidents)
 - A3D [](https://github.com/MoonBlvd/tad-IROS2019)
