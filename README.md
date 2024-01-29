@@ -142,4 +142,4 @@
 - Localizing anomalies from weakly-labeled videos [](https://ieeexplore.ieee.org/abstract/document/9408419)
 - Unsupervised anomaly detection and localization based on deep spatiotemporal translation network [](https://ieeexplore.ieee.org/abstract/document/9031390)
 - Self-supervised Sparse Representation for Video Anomaly Detection [](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_42)
-- Anomaly analysis in images and videos: A comprehensive review [](https://dl.acm.org/doi/abs/10.1145/3544014)
+- Anomaly analysis in images and videos: A comprehensive review [link](https://dl.acm.org/doi/abs/10.1145/3544014)
