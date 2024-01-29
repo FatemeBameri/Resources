@@ -135,7 +135,7 @@
 - Video anomaly detection and localization via gaussian mixture fully convolutional variational autoencoder [link](https://www.sciencedirect.com/science/article/abs/pii/S1077314218302674)
 - A new semantic and statistical distance-based anomaly detection in crowd video surveillance [link](https://www.hindawi.com/journals/wcmc/2021/5513582/)
 - CNN features with bi-directional LSTM for real-time anomaly detection in surveillance networks [link](https://link.springer.com/article/10.1007/s11042-020-09406-3)
-- Weakly supervised video anomaly detection based on 3D convolution and LSTM [](https://www.mdpi.com/1424-8220/21/22/7508)
+- Weakly supervised video anomaly detection based on 3D convolution and LSTM [link](https://www.mdpi.com/1424-8220/21/22/7508)
 - Deep learning based detection and localization of road accidents from traffic surveillance videos [link](https://www.sciencedirect.com/science/article/pii/S2405959521001478)
 - Abnormal event detection and localization via adversarial event prediction [link](https://ieeexplore.ieee.org/abstract/document/9346050)
 - Localizing anomalies from weakly-labeled videos [link](https://ieeexplore.ieee.org/abstract/document/9408419)
