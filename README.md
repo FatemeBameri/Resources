@@ -58,8 +58,6 @@
 - RWF-2000 []()
 - ShanghaiTech []()
 - XD-Violence []()
-- 
-## Traffic Anomaly Detection
 - StreetAccident [](https://github.com/smallcorgi/Anticipating-Accidents)
 - A3D [](https://github.com/MoonBlvd/tad-IROS2019)
 - CCD [](https://github.com/Cogito2012/UString)
